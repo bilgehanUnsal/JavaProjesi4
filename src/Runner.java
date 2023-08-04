@@ -7,6 +7,5 @@ public class Runner {
         Veritabani.baslangicUyelerVeritabaniOlustur();
         Veritabani.baslangicKitaplarVeritabaniOlustur();
         Helper.anaMenu();
-        System.out.println("Merhaba Dünya");
     }
 }
